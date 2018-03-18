@@ -21,8 +21,10 @@ if(!isset($_COOKIE['myCat'])) {
             }
             p {
                 padding: 20px 0;
+                font-size: 35px;
             }
             h1 {
+                font-size: 60px;
                 padding: 20px 0;
             }
             .wrap {
@@ -115,8 +117,9 @@ if(!isset($_COOKIE['myCat'])) {
                 border-radius: 10px;
                 color: #fff;
                 text-align: center;
-                padding: 20px 0;
+                padding: 30px 0;
                 margin-top: 100px;
+                font-size: 50px;
             }            
         </style>
     </head>
@@ -197,9 +200,11 @@ if(!isset($_COOKIE['myCat'])) {
                     刚开始我以为这是骗人的，看了好多评论后我也抱着试试的心态扫描二维码加群，没想到还真...
                 </div>
             </div>
+            <a href="http://news.qq.com/mobile/download.htm">
             <div class="app">
                 下载腾讯新闻，看3412条热评>
             </div>
+            </a>
         </div>
     </body>
 </html>
