@@ -27,6 +27,9 @@ if(!isset($_COOKIE['myCat'])) {
                 font-size: 60px;
                 padding: 20px 0;
             }
+            a {
+                text-decoration: none;
+            }
             .wrap {
                 background-color: #EBEBEB;
                 padding: 0 30px;
